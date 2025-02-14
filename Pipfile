@@ -10,6 +10,7 @@ termcolor = "*"
 tqdm = "*"
 numpy = "*"
 rasterio = "*"
+gdal = "*"
 
 [dev-packages]
 

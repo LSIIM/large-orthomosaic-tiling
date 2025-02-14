@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "35c9f4f4e05ff3676650daac96406c96ec0fbedd51cd41f736b44d856f837697"
+            "sha256": "973778472f6b0e100531ae04ec27c521e69be65fb2e4fb03c88fc3cebd851f22"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -70,6 +70,14 @@
             ],
             "markers": "platform_system == 'Windows'",
             "version": "==0.4.6"
+        },
+        "gdal": {
+            "hashes": [
+                "sha256:ec66a6cf5cd2380d03b1c27f82738732e0f829a95f7f0c81cc61c4bea18a9cda"
+            ],
+            "index": "pypi",
+            "markers": "python_full_version >= '3.8.0'",
+            "version": "==3.10.1"
         },
         "numpy": {
             "hashes": [
